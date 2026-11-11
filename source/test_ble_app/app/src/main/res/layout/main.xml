@@ -87,6 +87,7 @@
 			android:layout_marginBottom="10dp"
 			android:id="@+id/WriteData"
 			android:width="250dp"
+			android:fontFamily="monospace"
 			android:lines="5"
 			android:gravity="top"
 			android:textColor="#FFFFFFFF"/>
@@ -130,6 +131,7 @@
 			android:textColor="#00FF0F"
 			android:id="@+id/ReadData"
 			android:layout_marginLeft="25dp"
+			android:fontFamily="monospace"
 			android:lines="15"
 			android:textIsSelectable="true"/>
 		
